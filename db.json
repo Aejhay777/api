@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "I'm an aspiring Web Developer.",
+      "author": "Aejhay",
+      "id": 1
+    },
+    {
+      "title": "Looking for: Work",
+      "body": "Currently looking for oppurtunities :)",
+      "author": "Aejhay",
+      "id": 2
+    }
+  ]
+}
